@@ -1,0 +1,10 @@
+Package: doctl
+Version: 1.68.0
+Maintainer: Mauricio Vargas <mv.sepulveda@mail.utoronto.ca>
+Section: utils
+Source: doctl
+Homepage: https://github.com/digitalocean/doctl
+Architecture: amd64
+Priority: optional
+Description: The official command line interface for the DigitalOcean API.
+
