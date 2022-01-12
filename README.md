@@ -2,7 +2,7 @@
 
 Doctl installer for Ubuntu/Debian that Doesn't use snap.
 
-Just download and run
+Just download the [DEB file](https://github.com/pachadotdev/doctl-deb-creation/releases/download/1.68.0/doctl-1.68.0-linux-amd64.deb) and run
 ```bash
 sudo gdebi doctl-1.68.0-linux-amd64.deb
 ```
