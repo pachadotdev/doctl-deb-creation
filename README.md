@@ -7,7 +7,9 @@ Just download and run
 sudo gdebi doctl-1.68.0-linux-amd64.deb
 ```
 
-Tip: Add these to your `.bashrc`, you don't need all of these four envvars
+Or download from the browser and install by double clicking the DEB file.
+
+Tip: Add these to your `.bashrc` if you are going to use doctl constantly, you don't need all of these four envvars
 ```bash
 export DIGITALOCEAN_TOKEN="PUT-TOKEN-2-HERE"
 export VENDOR_PORTAL_ADMIN_TOKEN="PUT-TOKEN-2-HERE"
